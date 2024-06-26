@@ -1,7 +1,7 @@
  
 
 ---
-#title: Installation and Setup
+  title: Installation and Setup
 ---
 
 ## Composer
